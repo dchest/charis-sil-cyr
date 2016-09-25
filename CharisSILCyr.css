@@ -2,9 +2,9 @@
   font-family: "Charis SIL";
   src: local("Charis SIL Regular"),
        local("Charis SIL Cyr Regular"),
-       url("CharisSIL-R.woff2") format("woff2"),
-       url("CharisSIL-R.woff") format("woff"),
-       url("CharisSIL-R.ttf") format("ttf");
+       url("CharisSILCyr-R.woff2") format("woff2"),
+       url("CharisSILCyr-R.woff") format("woff"),
+       url("CharisSILCyr-R.ttf") format("ttf");
 }
 
 @font-face {
@@ -12,9 +12,9 @@
   font-style: italic;
   src: local("Charis SIL Italic"),
        local("Charis SIL Cyr Italic"),
-       url("CharisSIL-I.woff2") format("woff2"),
-       url("CharisSIL-I.woff") format("woff"),
-       url("CharisSIL-I.ttf") format("ttf");
+       url("CharisSILCyr-I.woff2") format("woff2"),
+       url("CharisSILCyr-I.woff") format("woff"),
+       url("CharisSILCyr-I.ttf") format("ttf");
 }
 
 @font-face {
@@ -22,9 +22,9 @@
   font-weight: bold;
   src: local("Charis SIL Bold"),
        local("Charis SIL Cyr Bold"),
-       url("CharisSIL-B.woff2") format("woff2"),
-       url("CharisSIL-B.woff") format("woff"),
-       url("CharisSIL-B.ttf") format("ttf");
+       url("CharisSILCyr-B.woff2") format("woff2"),
+       url("CharisSILCyr-B.woff") format("woff"),
+       url("CharisSILCyr-B.ttf") format("ttf");
 }
 
 @font-face {
@@ -33,7 +33,7 @@
   font-style: italic;
   src: local("Charis SIL Bold Italic"),
        local("Charis SIL Cyr Bold Italic"),
-       url("CharisSIL-BI.woff2") format("woff2"),
-       url("CharisSIL-BI.woff") format("woff"),
-       url("CharisSIL-BI.ttf") format("ttf");
+       url("CharisSILCyr-BI.woff2") format("woff2"),
+       url("CharisSILCyr-BI.woff") format("woff"),
+       url("CharisSILCyr-BI.ttf") format("ttf");
 }
