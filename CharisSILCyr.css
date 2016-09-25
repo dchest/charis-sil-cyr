@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Charis SIL";
+  src: local("Charis SIL Regular"),
+       local("Charis SIL Cyr Regular"),
+       url("CharisSIL-R.woff2") format("woff2"),
+       url("CharisSIL-R.woff") format("woff"),
+       url("CharisSIL-R.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Charis SIL";
+  font-style: italic;
+  src: local("Charis SIL Italic"),
+       local("Charis SIL Cyr Italic"),
+       url("CharisSIL-I.woff2") format("woff2"),
+       url("CharisSIL-I.woff") format("woff"),
+       url("CharisSIL-I.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Charis SIL";
+  font-weight: bold;
+  src: local("Charis SIL Bold"),
+       local("Charis SIL Cyr Bold"),
+       url("CharisSIL-B.woff2") format("woff2"),
+       url("CharisSIL-B.woff") format("woff"),
+       url("CharisSIL-B.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Charis SIL";
+  font-weight: bold;
+  font-style: italic;
+  src: local("Charis SIL Bold Italic"),
+       local("Charis SIL Cyr Bold Italic"),
+       url("CharisSIL-BI.woff2") format("woff2"),
+       url("CharisSIL-BI.woff") format("woff"),
+       url("CharisSIL-BI.ttf") format("ttf");
+}
